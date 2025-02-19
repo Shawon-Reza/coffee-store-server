@@ -1,2 +1,2 @@
-Get ALL Coffee :
--/coffeelist
+Get ALL Coffee
+ - /coffeelist
